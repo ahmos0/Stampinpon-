@@ -9,7 +9,6 @@ public class Stampmove : MonoBehaviour
         //Cubeの位置をワールド座標からスクリーン座標に変換して、objectPointに格納
         Vector3 objectPoint
             = Camera.main.WorldToScreenPoint(transform.position);
- 
         //Cubeの現在位置(マウス位置)を、pointScreenに格納
         Vector3 pointScreen
             = new Vector3(Input.mousePosition.x,
