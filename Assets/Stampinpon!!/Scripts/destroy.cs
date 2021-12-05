@@ -5,6 +5,7 @@ using UnityEngine;
 public class destroy: MonoBehaviour
 {
 	private papergenrater _papergenerater;
+	private float timer;
 	void Start()
 	{
 		_papergenerater = GameObject.FindGameObjectWithTag("papergenerater").GetComponent<papergenrater>();
