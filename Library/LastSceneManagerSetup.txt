@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Stampinpon!!/Scenes/HAMADAscene.unity
+- path: Assets/Stampinpon!!/Scenes/Modeling.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

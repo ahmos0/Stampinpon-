@@ -1,0 +1,222 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1348; Version 2009; 64bit' Language: 'ja' Physical Memory: 4005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/seiya/Documents/Stampinpon-
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+53395
+Successfully changed project path to: C:/Users/seiya/Documents/Stampinpon-
+C:/Users/seiya/Documents/Stampinpon-
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 166.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/seiya/Documents/Stampinpon-/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     2002 MB
+    Driver:   27.20.100.8729
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56092
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006500 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 58.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.603 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2603ms)
+		BeginReloadAssembly (258ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (829ms)
+			LoadAssemblies (253ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (313ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (312ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (59ms)
+				BeforeProcessingInitializeOnLoad (33ms)
+				ProcessInitializeOnLoadAttributes (157ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.081 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6090ms)
+		BeginReloadAssembly (936ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (31ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (104ms)
+		EndReloadAssembly (4619ms)
+			LoadAssemblies (2180ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (623ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (1547ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (33ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (569ms)
+				ProcessInitializeOnLoadAttributes (919ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.83 seconds
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1402 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.1 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1835.
+Total: 107.279500 ms (FindLiveObjects: 1.553600 ms CreateObjectMapping: 78.930100 ms MarkObjects: 26.616900 ms  DeleteObjects: 0.171900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Stampinpon!!/models/botton.fbx
+  artifactKey: Guid(6065191103290fe49bf9d52c4579e334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/botton.fbx using Guid(6065191103290fe49bf9d52c4579e334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552c22fb9134ff2825fac97462be2a87') in 2.778738 seconds 
+  Import took 2.820950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Stampinpon!!/models/HANKO.fbx
+  artifactKey: Guid(ac222753a8078214fa3a72cb24417882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/HANKO.fbx using Guid(ac222753a8078214fa3a72cb24417882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eefd096f62c5f7acaab627d624047afe') in 0.411357 seconds 
+  Import took 0.453580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/Stampinpon!!/models/paper.fbx
+  artifactKey: Guid(cb3d49e9a5a52674d841b2d74fd7bd89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/paper.fbx using Guid(cb3d49e9a5a52674d841b2d74fd7bd89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296d05bd3bfe0aabe9f24424c13b213c') in 1.194536 seconds 
+  Import took 1.260311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001738 seconds.
+  path: Assets/Stampinpon!!/models/HANKOroom.fbx
+  artifactKey: Guid(a80adacb8ee6ee241a10a04dd83aafe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/HANKOroom.fbx using Guid(a80adacb8ee6ee241a10a04dd83aafe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544e22e634cff29bc2af983833572f0b') in 1.593814 seconds 
+  Import took 1.618836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Stampinpon!!/models/stage.fbx
+  artifactKey: Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/stage.fbx using Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105dc3e023207f032ce570dde0ecf108') in 0.222146 seconds 
+  Import took 0.273104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 335.539275 seconds.
+  path: Assets/Stampinpon!!/models/stage.fbx
+  artifactKey: Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/stage.fbx using Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12152a0acb9f64c240f94075fbde53d2') in 1.599785 seconds 
+  Import took 1.673770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016727 seconds.
+  path: Assets/Stampinpon!!/models/stage.fbx
+  artifactKey: Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/stage.fbx using Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12152a0acb9f64c240f94075fbde53d2') in 0.173704 seconds 
+  Import took 0.216235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 326.778288 seconds.
+  path: Assets/Stampinpon!!/models/stage.fbx
+  artifactKey: Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/stage.fbx using Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f016dd650ebdc312ca69e27bd6ad28') in 0.588111 seconds 
+  Import took 0.753411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 693.186072 seconds.
+  path: Assets/Stampinpon!!/models/stage.fbx
+  artifactKey: Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/stage.fbx using Guid(7079c67a924fd724995e84a4b82ef744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80638379d265a64fa0917f757b1e7092') in 1.420322 seconds 
+  Import took 1.472542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1216.023384 seconds.
+  path: Assets/Stampinpon!!/models/kabe.fbx
+  artifactKey: Guid(379e1d92c21910e4b9e5dc389f4fede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/kabe.fbx using Guid(379e1d92c21910e4b9e5dc389f4fede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e7444c7b5fbd0bcf2a987651c5a2c95') in 6.189675 seconds 
+  Import took 7.027340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.506109 seconds.
+  path: Assets/Stampinpon!!/models/kabe.fbx
+  artifactKey: Guid(379e1d92c21910e4b9e5dc389f4fede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stampinpon!!/models/kabe.fbx using Guid(379e1d92c21910e4b9e5dc389f4fede9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e7444c7b5fbd0bcf2a987651c5a2c95') in 0.838690 seconds 
+  Import took 0.890907 seconds .
+
