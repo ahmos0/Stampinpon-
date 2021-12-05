@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets/Stampinpon!!/Scripts/botankonnit.cs" />
      <Compile Include="Assets/Stampinpon!!/Scripts/destroy.cs" />
      <Compile Include="Assets/Stampinpon!!/Scripts/papergenrater.cs" />
      <Compile Include="Assets/Stampinpon!!/Scripts/Stampdrag.cs" />
